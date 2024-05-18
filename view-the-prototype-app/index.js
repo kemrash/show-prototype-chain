@@ -1,4 +1,4 @@
-import Page from "./page.js";
+import Page from "./Page.js";
 
 const $container = document.getElementById("app-container");
 
